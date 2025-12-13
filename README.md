@@ -6,4 +6,4 @@ Currently studying at **42 Paris**
 
 ## Connect
 [camvi.nguyen@icloud.com](mailto:camvi.nguyen@icloud.com)<br>
-[LinkedIn](https://www.linkedin.com/in/ton-profil)
+[LinkedIn](https://www.linkedin.com/in/cam-vi-nguyen)
