@@ -7,7 +7,7 @@ Currently studying at **42 Paris**
 **cub3D** - A 3D maze game using raycasting<br>
 [View repository →](https://github.com/camviweb/MazeMiko)
 
-*Currently implementing an HTTP server in C++98.*
+*Currently learning C++ through 42's C++ modules.*
 
 ## Connect
 [camvi.nguyen@icloud.com](mailto:camvi.nguyen@icloud.com)<br>
