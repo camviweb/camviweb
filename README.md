@@ -4,10 +4,10 @@ Currently studying at **42 Paris**
 **minishell** - A minimal bash implementation in C<br>
 [View repository →](https://github.com/camviweb/claude)<br>
 
-**cub3D** - A 3D maze game using raycasting<br>
-[View repository →](https://github.com/camviweb/MazeMiko)
+**Inception** - A small infrastructure of 3 Docker containers (NGINX, MariaDB, php-fpm) hosting a WordPress website<br>
+[View repository →](https://github.com/camviweb/Inception)<br>
 
-*Currently learning C++ through 42's C++ modules.*
+*Currently working on the last 42 common-core project: transcendence.*
 
 ## Connect
 [camvi.nguyen@icloud.com](mailto:camvi.nguyen@icloud.com)<br>
